@@ -82,5 +82,19 @@
     "FormerHoldings": [
         "Beverage Partners Worldwide", "Coca-Cola Amatil", 
         "Coca-Cola Enterprises", "Columbia Pictures", "TriStar Pictures"
-    ]
+    ],
+    "Consumer": [
+        "Puma", "Carrefour", "Siemens", "HP","Sodastream", "Ahava", "Axxa", "Remax"
+
+    ],
+    "Divestment":[
+        "JCB", "Caf", "CAT", "Barclays", "Elbit Systems", "Volvo", "Chevron", "TKH Security",
+        "HIKVISION", "HD HYUNDAI"
+    ],
+    "Organisations":[
+        "Google", "Amazon", "Airbnb", "booking.com", "Expedia", "Disney", "Domino's Pizza",
+        "Mc Donalds", "Papa Johns", "Burger King", "Pizza Hut", "Wix", "Starbucks","Fedex", 
+        "Adidas", "Reebok", "KFC", "Huggies", "Tesco", "walmart", "Asda","Ups", "Zara", "Victoria's Secret",
+        "Pringles", "The Body Shop", "Nescafe", "Mountain Dew", "twix", "Mars", "Subway", "Gillette", "Nutella",
+        "Nike", "Cheetos","Dell", "Converse", "Dove", "Doritos", "Lego", "Intel", "Braun"
 }
