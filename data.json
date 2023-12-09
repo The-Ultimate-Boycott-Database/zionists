@@ -1,0 +1,86 @@
+{
+    "WaterSportsAndEnergyDrinks": [
+        "Abbey Well", "Ades", "AHA", "Alhambra", "Aquactive", 
+        "Aquana", "Aquapure", "Aquarius", "Aqua Shot", "Arwa", 
+        "Bacardi Mixers", "Bankia", "Barq's", "Beat", "Beverly", 
+        "Bibo", "Bistra", "Bistrone", "Bjäre", 
+        "Black Cherry Vanilla Coca-Cola", "Blue Sky", 
+        "Bodyarmor SuperDrink", "BonAqua BonActive", "Bonaqua", 
+        "BotaniQ", "BPM Energy", "Brazzi", "Bright And Early", 
+        "Brisa", "Burn"
+    ],
+    "CoffeeAndTea": [
+        "Cafe Zu", "Caffeine Free Barq's", "Caffeine Free Coca-Cola", 
+        "Caffeine Free New Coke", "Caffeine Free Diet Coke", "Cal King", 
+        "Calypso", "Canning's", "Cappy", "Caprice", "Carioca", 
+        "Carver's", "Cascal", "Cepita del valle", "Chaho", "Charrua", 
+        "Chaudfontaine", "Chaywa", "Cheers", "Cherry Coke", "Chinotto", 
+        "Chippewa", "Chivalry", "Ciel", "Ciel+", "Citra", "Club", 
+        "Coca-Cola", "Coca-Cola BlāK", "Coca-Cola Black Cherry Vanilla", 
+        "Coca-Cola C2", "Coca-Cola California Raspberry", 
+        "Coca-Cola Citra", "Coca-Cola Clear", "Coca-Cola Energy", 
+        "Coca-Cola Georgia Peach", "Coca-Cola Life", "Coca-Cola Light", 
+        "Coca-Cola with Lemon", "Coca-Cola with Lime", "Coca-Cola Move", 
+        "Coca-Cola with No Calories and with Sweeteners from the Plant Stevia", 
+        "Coca-Cola Raspberry", "Coca-Cola Stevia No Sugar", 
+        "Coca-Cola Orange", "Coca-Cola Orange Vanilla", "Coca-Cola Starlight", 
+        "Coca-Cola Stevia", "Coca-Cola Zero Sugar", "Cocoteen", "Coke II", 
+        "Colette Cola", "Costa Coffee"
+    ],
+    "SoftDrinksJuicesAndOtherBeverages": [
+        "Daft Cola", "Daizu no Susume", "DANNON", "Danone", "Dasani", 
+        "Dasani Active", "Dasani Balance", "Dasani Flavors", 
+        "Dasani Nutriwater", "Dasani Plus", "Dasani Sensations", 
+        "Deep River Rock", "Delaware Punch", "Del Valle", "DESCA", 
+        "Diet A&W", "Diet Andina Frut", "Diet Andina Nectar", 
+        "Diet Barq's", "Diet Cherry Coke", "Diet Coke", 
+        "Diet Coke Black Cherry Vanilla", "Diet Coke Citra", 
+        "Diet Coke Plus", "Diet Coke Sweetened with Splenda", 
+        "Diet Coke with Lemon", "Diet Coke with Lime", 
+        "Diet Coke with Raspberry", "Diet Crush", "Diet Dr. Pepper", 
+        "Diet Fanta", "Diet Freskyta", "Diet Inca Kola", "Diet Kia Ora", 
+        "Diet Krest", "Diet Lift", "Diet Lilt", "Diet Master Pour", 
+        "Diet Mello Yello", "Diet Nestea", "Diet Northern Neck Ginger Ale", 
+        "Diet Oasis", "Diet Quatro", "Diet Sarsi", "Diet Schweppes", 
+        "Diet Seagrams", "Diet Sport", "Diet Sprite", "Diet Squirt", 
+        "Diet Tai", "Diet Vanilla Coke", "Diva", "Dobriy", "Doğazen", 
+        "Dorna", "Dr. Pepper", "Dr. Pepper Zero Sugar", "Drim", 
+        "Dunkin' Donuts", "Dunkin' Donuts Shot In The Dark"
+    ],
+    "JuicesAndTeas": [
+        "Ayataka", "Capri Sun", "Delaware Punch", "Enviga", "Far Coast", 
+        "Five Alive", "Fruitopia", "Frutonic", "Fuze", "Glaceau", 
+        "Gold Peak", "Hi-C", "Honest Tea", "Innocent", "Matte Leão", 
+        "Minute Maid", "Cappy", "Nestea", "Oasis", "Odwalla", "Qoo", 
+        "Peace Iced Tea", "Simply Beverages", "Sokenbicha", "Sparkle", 
+        "Tum-E Yummies", "VitaminWater", "ZICO"
+    ],
+    "SportsDrinks": [
+        "Aquarius", "Bodyarmor SuperDrink", "Powerade", 
+        "Monster Beverage (17.9% stake)", "BPM Energy", "Burn", 
+        "Formula 50", "Full Throttle", "Live+", "Monster", "Mother", 
+        "NOS", "RAC 124", "Relentless", "Tab Energy", "Von Dutch"
+    ],
+    "BottledWater": [
+        "Abbey Well", "AdeS", "Arwa", "Aquarius", "Ciel", "Dasani", 
+        "Deep River Rock", "Malvern Water", "Smartwater", "Topo Chico", 
+        "Valpre"
+    ],
+    "CoffeeBasedDrinks": [
+        "Caribou Coffee", "Costa Coffee", "Dunkin' Donuts", "Georgia", "illy"
+    ],
+    "DairyBasedDrinks": [
+        "Fairlife", "Swerve", "Vio"
+    ],
+    "PurchasedFromBisleri": [
+        "Citra", "Gold Spot", "Limca", "Thums Up", "Maaza"
+    ],
+    "JointVentures": [
+        "Coca-Cola Beverages Africa", "Coca-Cola Europacific Partners", 
+        "Coca-Cola FEMSA", "Coca-Cola Hellenic", "Bambi"
+    ],
+    "FormerHoldings": [
+        "Beverage Partners Worldwide", "Coca-Cola Amatil", 
+        "Coca-Cola Enterprises", "Columbia Pictures", "TriStar Pictures"
+    ]
+}
